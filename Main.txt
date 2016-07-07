@@ -1,0 +1,50 @@
+What entity do players play as?
+We shall name this a Neolof for now.
+A class specific “ruling class”
+
+What is a class?
+Class chosen at creation (dwarfs, trolls, humans)
+They can each have different attributes e.g. trolls make stronger warriors. We can design in a way that the attributes balance each other.
+
+What is a skill?
+Do we use a class system? Are classes defined by a set of their skills?
+
+
+What is a race?
+
+Are there Factions? Clans? 
+
+What is online mode?
+This mode permits changes to an entity accessible environment.
+
+What is offline mode?
+This mode is managed by a server AI. The mode reacts to events based on player configurations or specs. Maybe mechanics settings and other controllable offline variables.
+
+What happens when a Neolof dies?
+All current wielding items are dropped by the Neolof. If an item is wearable by another race then it can immediately be wielded. If the item is not wearable by another race then it may only be picked up.
+
+If a Neolof has a running relative then they become the player controlled entity. If the Neolof is over the age of 18 then they have all the abilities of the previous player controlled Neolof. If the Neolof is under 18 then they must chose a caretaker from their village to be a “hand”. They won’t have control of the character but rather they’ll have control of the “hand” until the Neolof is old enough to be player controlled.
+
+If the Neolof has no running relative then the clan has lost it’s Neolof line and are therefore considered free runners without protection from a Neolof. They are prone to being conquered by another Neolof and thus the player that controlled that last Neolof is effectively perma-dead.
+
+
+
+How does a Neolof combat?
+
+
+What is a village?
+A village is a set of villagers that reside somewhere unless it is a nomadic tribe.
+
+What is a village?
+
+
+What is a nomadic tribe?
+Nomadic tribes can continue traveling during offline mode until they hit major obstacles or any unprecedented danger. In that case the nomadic tribe will set up camp. The camp option can also be set before logging off.
+
+
+Lore
+How does the rate of time pass? Are their seasons, years?
+
+No point no to considering that’s we’ll we’ll put our code. We can have the game detailed and all the lore and such
+
+Should we also put the lore on github. Might help us keep track of changes. I assume yes.
